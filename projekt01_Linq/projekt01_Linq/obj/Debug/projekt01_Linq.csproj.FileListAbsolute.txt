@@ -1,0 +1,7 @@
+C:\Users\Paweł Pabiańczyk\Documents\studia\Nauka C#\program 01 Linq\projekt01_Linq\projekt01_Linq\obj\Debug\projekt01_Linq.csprojAssemblyReference.cache
+C:\Users\Paweł Pabiańczyk\Documents\studia\Nauka C#\program 01 Linq\projekt01_Linq\projekt01_Linq\obj\Debug\projekt01_Linq.csproj.CoreCompileInputs.cache
+C:\Users\Paweł Pabiańczyk\Documents\studia\Nauka C#\program 01 Linq\projekt01_Linq\projekt01_Linq\bin\Debug\projekt01_Linq.exe.config
+C:\Users\Paweł Pabiańczyk\Documents\studia\Nauka C#\program 01 Linq\projekt01_Linq\projekt01_Linq\bin\Debug\projekt01_Linq.exe
+C:\Users\Paweł Pabiańczyk\Documents\studia\Nauka C#\program 01 Linq\projekt01_Linq\projekt01_Linq\bin\Debug\projekt01_Linq.pdb
+C:\Users\Paweł Pabiańczyk\Documents\studia\Nauka C#\program 01 Linq\projekt01_Linq\projekt01_Linq\obj\Debug\projekt01_Linq.exe
+C:\Users\Paweł Pabiańczyk\Documents\studia\Nauka C#\program 01 Linq\projekt01_Linq\projekt01_Linq\obj\Debug\projekt01_Linq.pdb

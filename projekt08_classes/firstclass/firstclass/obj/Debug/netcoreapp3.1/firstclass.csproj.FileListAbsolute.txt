@@ -1,0 +1,11 @@
+C:\Users\Paweł Pabiańczyk\Documents\studia\Nauka C#\program 01 Linq\projekt08_classes\firstclass\firstclass\bin\Debug\netcoreapp3.1\firstclass.exe
+C:\Users\Paweł Pabiańczyk\Documents\studia\Nauka C#\program 01 Linq\projekt08_classes\firstclass\firstclass\bin\Debug\netcoreapp3.1\firstclass.deps.json
+C:\Users\Paweł Pabiańczyk\Documents\studia\Nauka C#\program 01 Linq\projekt08_classes\firstclass\firstclass\bin\Debug\netcoreapp3.1\firstclass.runtimeconfig.json
+C:\Users\Paweł Pabiańczyk\Documents\studia\Nauka C#\program 01 Linq\projekt08_classes\firstclass\firstclass\bin\Debug\netcoreapp3.1\firstclass.runtimeconfig.dev.json
+C:\Users\Paweł Pabiańczyk\Documents\studia\Nauka C#\program 01 Linq\projekt08_classes\firstclass\firstclass\bin\Debug\netcoreapp3.1\firstclass.dll
+C:\Users\Paweł Pabiańczyk\Documents\studia\Nauka C#\program 01 Linq\projekt08_classes\firstclass\firstclass\bin\Debug\netcoreapp3.1\firstclass.pdb
+C:\Users\Paweł Pabiańczyk\Documents\studia\Nauka C#\program 01 Linq\projekt08_classes\firstclass\firstclass\obj\Debug\netcoreapp3.1\firstclass.csprojAssemblyReference.cache
+C:\Users\Paweł Pabiańczyk\Documents\studia\Nauka C#\program 01 Linq\projekt08_classes\firstclass\firstclass\obj\Debug\netcoreapp3.1\firstclass.AssemblyInfoInputs.cache
+C:\Users\Paweł Pabiańczyk\Documents\studia\Nauka C#\program 01 Linq\projekt08_classes\firstclass\firstclass\obj\Debug\netcoreapp3.1\firstclass.AssemblyInfo.cs
+C:\Users\Paweł Pabiańczyk\Documents\studia\Nauka C#\program 01 Linq\projekt08_classes\firstclass\firstclass\obj\Debug\netcoreapp3.1\firstclass.dll
+C:\Users\Paweł Pabiańczyk\Documents\studia\Nauka C#\program 01 Linq\projekt08_classes\firstclass\firstclass\obj\Debug\netcoreapp3.1\firstclass.pdb

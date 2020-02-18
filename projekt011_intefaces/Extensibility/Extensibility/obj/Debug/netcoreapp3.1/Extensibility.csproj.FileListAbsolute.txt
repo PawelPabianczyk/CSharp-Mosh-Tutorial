@@ -1,0 +1,11 @@
+C:\Users\Paweł Pabiańczyk\Documents\studia\Nauka C#\program 01 Linq\projekt011_intefaces\Extensibility\Extensibility\bin\Debug\netcoreapp3.1\Extensibility.exe
+C:\Users\Paweł Pabiańczyk\Documents\studia\Nauka C#\program 01 Linq\projekt011_intefaces\Extensibility\Extensibility\bin\Debug\netcoreapp3.1\Extensibility.deps.json
+C:\Users\Paweł Pabiańczyk\Documents\studia\Nauka C#\program 01 Linq\projekt011_intefaces\Extensibility\Extensibility\bin\Debug\netcoreapp3.1\Extensibility.runtimeconfig.json
+C:\Users\Paweł Pabiańczyk\Documents\studia\Nauka C#\program 01 Linq\projekt011_intefaces\Extensibility\Extensibility\bin\Debug\netcoreapp3.1\Extensibility.runtimeconfig.dev.json
+C:\Users\Paweł Pabiańczyk\Documents\studia\Nauka C#\program 01 Linq\projekt011_intefaces\Extensibility\Extensibility\bin\Debug\netcoreapp3.1\Extensibility.dll
+C:\Users\Paweł Pabiańczyk\Documents\studia\Nauka C#\program 01 Linq\projekt011_intefaces\Extensibility\Extensibility\bin\Debug\netcoreapp3.1\Extensibility.pdb
+C:\Users\Paweł Pabiańczyk\Documents\studia\Nauka C#\program 01 Linq\projekt011_intefaces\Extensibility\Extensibility\obj\Debug\netcoreapp3.1\Extensibility.csprojAssemblyReference.cache
+C:\Users\Paweł Pabiańczyk\Documents\studia\Nauka C#\program 01 Linq\projekt011_intefaces\Extensibility\Extensibility\obj\Debug\netcoreapp3.1\Extensibility.AssemblyInfoInputs.cache
+C:\Users\Paweł Pabiańczyk\Documents\studia\Nauka C#\program 01 Linq\projekt011_intefaces\Extensibility\Extensibility\obj\Debug\netcoreapp3.1\Extensibility.AssemblyInfo.cs
+C:\Users\Paweł Pabiańczyk\Documents\studia\Nauka C#\program 01 Linq\projekt011_intefaces\Extensibility\Extensibility\obj\Debug\netcoreapp3.1\Extensibility.dll
+C:\Users\Paweł Pabiańczyk\Documents\studia\Nauka C#\program 01 Linq\projekt011_intefaces\Extensibility\Extensibility\obj\Debug\netcoreapp3.1\Extensibility.pdb

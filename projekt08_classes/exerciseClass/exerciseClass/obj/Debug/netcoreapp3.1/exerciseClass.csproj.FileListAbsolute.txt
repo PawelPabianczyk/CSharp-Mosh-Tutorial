@@ -1,0 +1,11 @@
+C:\Users\Paweł Pabiańczyk\Documents\studia\Nauka C#\program 01 Linq\projekt08_classes\exerciseClass\exerciseClass\bin\Debug\netcoreapp3.1\exerciseClass.exe
+C:\Users\Paweł Pabiańczyk\Documents\studia\Nauka C#\program 01 Linq\projekt08_classes\exerciseClass\exerciseClass\bin\Debug\netcoreapp3.1\exerciseClass.deps.json
+C:\Users\Paweł Pabiańczyk\Documents\studia\Nauka C#\program 01 Linq\projekt08_classes\exerciseClass\exerciseClass\bin\Debug\netcoreapp3.1\exerciseClass.runtimeconfig.json
+C:\Users\Paweł Pabiańczyk\Documents\studia\Nauka C#\program 01 Linq\projekt08_classes\exerciseClass\exerciseClass\bin\Debug\netcoreapp3.1\exerciseClass.runtimeconfig.dev.json
+C:\Users\Paweł Pabiańczyk\Documents\studia\Nauka C#\program 01 Linq\projekt08_classes\exerciseClass\exerciseClass\bin\Debug\netcoreapp3.1\exerciseClass.dll
+C:\Users\Paweł Pabiańczyk\Documents\studia\Nauka C#\program 01 Linq\projekt08_classes\exerciseClass\exerciseClass\bin\Debug\netcoreapp3.1\exerciseClass.pdb
+C:\Users\Paweł Pabiańczyk\Documents\studia\Nauka C#\program 01 Linq\projekt08_classes\exerciseClass\exerciseClass\obj\Debug\netcoreapp3.1\exerciseClass.csprojAssemblyReference.cache
+C:\Users\Paweł Pabiańczyk\Documents\studia\Nauka C#\program 01 Linq\projekt08_classes\exerciseClass\exerciseClass\obj\Debug\netcoreapp3.1\exerciseClass.AssemblyInfoInputs.cache
+C:\Users\Paweł Pabiańczyk\Documents\studia\Nauka C#\program 01 Linq\projekt08_classes\exerciseClass\exerciseClass\obj\Debug\netcoreapp3.1\exerciseClass.AssemblyInfo.cs
+C:\Users\Paweł Pabiańczyk\Documents\studia\Nauka C#\program 01 Linq\projekt08_classes\exerciseClass\exerciseClass\obj\Debug\netcoreapp3.1\exerciseClass.dll
+C:\Users\Paweł Pabiańczyk\Documents\studia\Nauka C#\program 01 Linq\projekt08_classes\exerciseClass\exerciseClass\obj\Debug\netcoreapp3.1\exerciseClass.pdb

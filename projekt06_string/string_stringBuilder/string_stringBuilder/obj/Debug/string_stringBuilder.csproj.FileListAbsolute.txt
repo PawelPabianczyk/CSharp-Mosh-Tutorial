@@ -1,0 +1,7 @@
+C:\Users\Paweł Pabiańczyk\Documents\studia\Nauka C#\program 01 Linq\projekt06_string\string_stringBuilder\string_stringBuilder\bin\Debug\string_stringBuilder.exe.config
+C:\Users\Paweł Pabiańczyk\Documents\studia\Nauka C#\program 01 Linq\projekt06_string\string_stringBuilder\string_stringBuilder\bin\Debug\string_stringBuilder.exe
+C:\Users\Paweł Pabiańczyk\Documents\studia\Nauka C#\program 01 Linq\projekt06_string\string_stringBuilder\string_stringBuilder\bin\Debug\string_stringBuilder.pdb
+C:\Users\Paweł Pabiańczyk\Documents\studia\Nauka C#\program 01 Linq\projekt06_string\string_stringBuilder\string_stringBuilder\obj\Debug\string_stringBuilder.csprojAssemblyReference.cache
+C:\Users\Paweł Pabiańczyk\Documents\studia\Nauka C#\program 01 Linq\projekt06_string\string_stringBuilder\string_stringBuilder\obj\Debug\string_stringBuilder.csproj.CoreCompileInputs.cache
+C:\Users\Paweł Pabiańczyk\Documents\studia\Nauka C#\program 01 Linq\projekt06_string\string_stringBuilder\string_stringBuilder\obj\Debug\string_stringBuilder.exe
+C:\Users\Paweł Pabiańczyk\Documents\studia\Nauka C#\program 01 Linq\projekt06_string\string_stringBuilder\string_stringBuilder\obj\Debug\string_stringBuilder.pdb
